@@ -2,3 +2,4 @@ This is remote line for rf2
 Second line added in local
 Third line added in remote
 c=a+b added in local
+Fourth line added in remote
