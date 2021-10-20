@@ -1,1 +1,2 @@
 This is remote line for rf2
+Second line added in local
